@@ -1,0 +1,46 @@
+#main_scene {
+	background-color : #fffff0;
+	height : 500px;
+	width : 1600px;
+}
+
+#_debug_div {
+	border : 1px solid black;
+	height : 300px;
+	width : 1600px;
+}
+#_debug_button_wrapper {
+	height : 30px;
+	margin : 10px;
+}
+#_debug_command_wrapper {
+	height : 30px;
+	margin : 10px;
+}
+._debug_command_div {
+	margin-right : 10px;
+	float : left;
+}
+._debug_command_tag {
+	margin-right : 5px;
+}
+#logs {
+	border : 1px solid black;
+	height : 220px;
+}
+#room_debug_log {
+	width : 500px;
+	height : 220px;
+	float : left;
+}
+#message_box {
+	width : 300px;
+	height : 220px;
+	float : left;
+}
+#chat_log {
+	width : 798px;
+	height : 220px;
+	float : left;
+	overflow : auto;
+}
